@@ -1,2 +1,5 @@
 The artic is COLD!
-Polar bears not paying me any attention, but the seals look menacing.  
+<<<<<<< HEAD
+Polar bears not paying me any attention, but the seals are super cute.  
+=======
+>>>>>>> e460b077ec6a39a4dd0d35a92a713cbd44028218
